@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "bc-rcv"
+version = "0.1.0"
+description = "Burton-Conner Ranked Choice Voting"
+authors = ["Cameron Kleiman <camtheman256@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "bc_rcv"}]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pyrankvote = "^2.0.6"
+ipykernel = "^6.27.1"
+
+[tool.poetry.group.dev.dependencies]
+black = "^23.12.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
