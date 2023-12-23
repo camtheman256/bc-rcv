@@ -1,0 +1,296 @@
+=========== PRESIDENT ================
+FINAL RESULT
+Candidate      Votes  Status
+-----------  -------  --------
+Kyna McGill      229  Elected
+Blank Votes       12  Rejected
+
+=========== VICE PRESIDENT ===========
+FINAL RESULT
+Candidate         Votes  Status
+--------------  -------  --------
+Rishika Bansal      228  Elected
+Blank Votes          13  Rejected
+
+=========== SECRETARY ================
+ROUND 1
+Candidate            Votes  Status
+-----------------  -------  --------
+Tasnim Zulfiqar         94  Hopeful
+Ekanem Okeke            72  Hopeful
+Mingpei 'Ming' Li       51  Rejected
+Blank Votes             24  Rejected
+
+FINAL RESULT
+Candidate            Votes  Status
+-----------------  -------  --------
+Tasnim Zulfiqar        107  Elected
+Ekanem Okeke            94  Rejected
+Mingpei 'Ming' Li        0  Rejected
+Blank Votes             40  Rejected
+
+=========== TREASURER ================
+FINAL RESULT
+Candidate          Votes  Status
+---------------  -------  --------
+Mackenzie Bivin      225  Elected
+Blank Votes           16  Rejected
+
+=========== JUDICIAL CHAIR ===========
+FINAL RESULT
+Candidate           Votes  Status
+----------------  -------  --------
+Liam Coy              109  Elected
+KC                     60  Rejected
+Richard Zhu            21  Rejected
+Siddhu Pachipala       18  Rejected
+Blank Votes            33  Rejected
+
+=========== SOCIAL MEDIA AND WEB CHAIR 
+FINAL RESULT
+Candidate              Votes  Status
+-------------------  -------  --------
+Fernando Valenzuela      183  Elected
+Blank Votes               58  Rejected
+
+=========== MERCH CHAIR ==============
+FINAL RESULT
+Candidate          Votes  Status
+---------------  -------  --------
+Haydn Long           123  Elected
+Sophie Thompson       71  Rejected
+Blank Votes           47  Rejected
+
+=========== SUSTAINABILITY CHAIR =====
+FINAL RESULT
+Candidate       Votes  Status
+------------  -------  --------
+Haylea Brock      186  Elected
+Blank Votes        55  Rejected
+
+=========== INCLUSIVITY CHAIR ========
+FINAL RESULT
+Candidate      Votes  Status
+-----------  -------  --------
+Emily Wong       189  Elected
+Blank Votes       52  Rejected
+
+=========== ART CHAIR ================
+FINAL RESULT
+Candidate            Votes  Status
+-----------------  -------  --------
+Mingpei 'Ming' Li      184  Elected
+Blank Votes             57  Rejected
+
+=========== MURAL CHAIR ==============
+FINAL RESULT
+Candidate      Votes  Status
+-----------  -------  --------
+Luka Srsic       185  Elected
+Blank Votes       56  Rejected
+
+=========== SOCIAL SPACES CHAIR ======
+FINAL RESULT
+Candidate         Votes  Status
+--------------  -------  --------
+Caitlin Ogoe        121  Elected
+Jonathan Liang       58  Rejected
+Josh Simon           16  Rejected
+Blank Votes          46  Rejected
+
+=========== MUSIC ROOM CHAIR =========
+FINAL RESULT
+Candidate            Votes  Status
+-----------------  -------  --------
+Jay Mancera             91  Elected
+Kylee Cogdill           49  Rejected
+Alexander Shi Jin       31  Rejected
+Blank Votes             70  Rejected
+
+=========== MAKERSPACE CHAIR =========
+FINAL RESULT
+Candidate         Votes  Status
+--------------  -------  --------
+Julia Hoeffner      120  Elected
+Jonathan Liang       42  Rejected
+Anand John           43  Rejected
+Eghosa Ohenhen        8  Rejected
+Blank Votes          28  Rejected
+
+=========== GYM AND DANCE ROOM CHAIR =
+ROUND 1
+Candidate       Votes  Status
+------------  -------  --------
+Ria Verma          61  Hopeful
+Fu Xing Chen       59  Hopeful
+Eleni Mowery       39  Hopeful
+Nicole Li          37  Rejected
+Blank Votes        45  Rejected
+
+ROUND 2
+Candidate       Votes  Status
+------------  -------  --------
+Fu Xing Chen       69  Hopeful
+Ria Verma          66  Hopeful
+Eleni Mowery       52  Rejected
+Nicole Li           0  Rejected
+Blank Votes        54  Rejected
+
+FINAL RESULT
+Candidate       Votes  Status
+------------  -------  --------
+Ria Verma          93  Elected
+Fu Xing Chen       85  Rejected
+Eleni Mowery        0  Rejected
+Nicole Li           0  Rejected
+Blank Votes        63  Rejected
+
+=========== ROOM ASSIGNMENT CHAIR (RAC) - ELECTING 3 ==========
+ROUND 1
+Candidate            Votes  Status
+-----------------  -------  --------
+Maanas Sharma           69  Elected
+Aarushi Mehrotra        33  Hopeful
+Olivia Chen             25  Hopeful
+Emily Canales           24  Hopeful
+Q Rael                  23  Hopeful
+Katelyn Lam             23  Hopeful
+Maeve Chen (Wolf)       17  Hopeful
+Blank Votes             27  Rejected
+
+ROUND 2
+Candidate            Votes  Status
+-----------------  -------  --------
+Maanas Sharma        53.50  Elected
+Aarushi Mehrotra     35.25  Hopeful
+Olivia Chen          26.80  Hopeful
+Emily Canales        26.02  Hopeful
+Katelyn Lam          24.80  Hopeful
+Q Rael               24.12  Hopeful
+Maeve Chen (Wolf)    22.39  Rejected
+Blank Votes          28.12  Rejected
+
+ROUND 3
+Candidate            Votes  Status
+-----------------  -------  --------
+Maanas Sharma        53.50  Elected
+Emily Canales        42.95  Hopeful
+Aarushi Mehrotra     35.79  Hopeful
+Olivia Chen          27.89  Hopeful
+Katelyn Lam          27.53  Hopeful
+Q Rael               25.22  Rejected
+Maeve Chen (Wolf)     0.00  Rejected
+Blank Votes          28.12  Rejected
+
+ROUND 4
+Candidate            Votes  Status
+-----------------  -------  --------
+Maanas Sharma        53.50  Elected
+Aarushi Mehrotra     55.12  Elected
+Emily Canales        44.63  Hopeful
+Olivia Chen          30.41  Hopeful
+Katelyn Lam          29.21  Hopeful
+Q Rael                0.00  Rejected
+Maeve Chen (Wolf)     0.00  Rejected
+Blank Votes          28.12  Rejected
+
+ROUND 5
+Candidate            Votes  Status
+-----------------  -------  --------
+Maanas Sharma        53.50  Elected
+Aarushi Mehrotra     53.50  Elected
+Emily Canales        45.12  Hopeful
+Olivia Chen          30.94  Hopeful
+Katelyn Lam          29.40  Rejected
+Q Rael                0.00  Rejected
+Maeve Chen (Wolf)     0.00  Rejected
+Blank Votes          28.54  Rejected
+
+FINAL RESULT
+Candidate            Votes  Status
+-----------------  -------  --------
+Maanas Sharma        53.50  Elected
+Aarushi Mehrotra     53.50  Elected
+Emily Canales        57.90  Elected
+Olivia Chen          43.09  Rejected
+Katelyn Lam           0.00  Rejected
+Q Rael                0.00  Rejected
+Maeve Chen (Wolf)     0.00  Rejected
+Blank Votes          33.01  Rejected
+
+=========== SOCIAL CHAIR - ELECTING 3 =========================
+ROUND 1
+Candidate        Votes  Status
+-------------  -------  --------
+Rafaa Qanash        88  Elected
+Jaclyn Thi          54  Elected
+Andrew Welter       33  Hopeful
+Josh Simon          13  Hopeful
+Blank Votes         53  Rejected
+
+FINAL RESULT
+Candidate        Votes  Status
+-------------  -------  --------
+Rafaa Qanash     47.00  Elected
+Jaclyn Thi       47.00  Elected
+Andrew Welter    62.83  Elected
+Josh Simon       26.75  Rejected
+Blank Votes      57.43  Rejected
+
+=========== CPW/REX (RUSH) CHAIR - ELECTING 3 =================
+ROUND 1
+Candidate            Votes  Status
+-----------------  -------  --------
+Diego Del Rio           59  Elected
+Layla Stanton           55  Elected
+Ximena Carrillo         31  Hopeful
+Siddhu Pachipala        31  Hopeful
+Mingpei 'Ming' Li       18  Hopeful
+Blank Votes             47  Rejected
+
+ROUND 2
+Candidate            Votes  Status
+-----------------  -------  --------
+Diego Del Rio        48.50  Elected
+Layla Stanton        48.50  Elected
+Ximena Carrillo      39.06  Hopeful
+Siddhu Pachipala     34.08  Hopeful
+Mingpei 'Ming' Li    22.91  Rejected
+Blank Votes          47.95  Rejected
+
+FINAL RESULT
+Candidate            Votes  Status
+-----------------  -------  --------
+Diego Del Rio        48.50  Elected
+Layla Stanton        48.50  Elected
+Ximena Carrillo      48.47  Elected
+Siddhu Pachipala     40.22  Rejected
+Mingpei 'Ming' Li     0.00  Rejected
+Blank Votes          55.31  Rejected
+
+=========== I3 CHAIR - ELECTING 2 =============================
+ROUND 1
+Candidate            Votes  Status
+-----------------  -------  --------
+Emily Kang              58  Hopeful
+Skippy 'Thu' Le         57  Hopeful
+Maeve Chen (Wolf)       44  Hopeful
+Jaclyn Thi              31  Rejected
+Blank Votes             51  Rejected
+
+FINAL RESULT
+Candidate            Votes  Status
+-----------------  -------  --------
+Emily Kang              71  Elected
+Skippy 'Thu' Le         65  Elected
+Maeve Chen (Wolf)       51  Rejected
+Jaclyn Thi               0  Rejected
+Blank Votes             54  Rejected
+
+=========== ALUMNI RELATIONS CHAIR - ELECTING 2 ===============
+FINAL RESULT
+Candidate            Votes  Status
+-----------------  -------  --------
+Olivia Chen            106  Elected
+Mingpei 'Ming' Li       86  Elected
+Blank Votes             49  Rejected
